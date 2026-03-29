@@ -1,4 +1,4 @@
-**You can list modules by using dnf module list**
+## Git Commands ##
 
 ```
 dnf module disable nodejs -y
