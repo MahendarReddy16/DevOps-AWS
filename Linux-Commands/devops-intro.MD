@@ -2,11 +2,11 @@
 
 What is DevOps?
 ```
-Devops is a process of creating co-operation between development team and Operation team.
-Dev means Devloper.
-Ops means testing, Build and Release.
-It follows the Agile methodology.
-Devops works for both sofware and hardware
+1.Devops is a process of creating co-operation between development team and Operation team.
+2.Dev means Developer.
+3.Ops means testing, Build and Release.
+4.It follows the Agile methodology.
+5.Devops works for both sofware and hardware
 ```
 or
 ```
@@ -21,9 +21,8 @@ SCHOOL MANAGEMENT
 3. Current generation: present  pass % --> 95-99% [ Daily Slip tests and feedback, Half, Quaterly, Semi-Final, Final]
 ```
 Envrionments:
-```
 DEV, QA, SIT, UAT, PERF, PRE-PROD, PROD
-
+```
 Formula -> test the drink -> DEV env
 Employees -> taste the drink, take/give feedback -> QA env
 Friends and Family members -> take/give feedback -> SIT env
