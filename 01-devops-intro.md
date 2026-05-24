@@ -32,3 +32,13 @@ FSSAI licence -> take certification -> Client approval [ then deploy into Produc
 
 Release to public market -> PROD env
 ```
+
+What is SDLC?
+
+Waterfall Model
+
+Agile Model
+
+Devops with Agile
+
+## Client Server Architecture ##
